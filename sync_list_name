@@ -1,4 +1,3 @@
-kube-controllers
 kube-policy-controller
 leader-elector
 libnetwork-plugin
