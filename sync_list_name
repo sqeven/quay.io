@@ -1,4 +1,12 @@
-service-level-alerts-operator
-slack-notification-resource
-strider-docker-spark
-vault-mutator
+spar-integration
+spar-schema
+squid
+stern
+tiller
+ubuntu14-ghc-8
+webapp
+webapp-ey
+wire-server-cache
+wire-server-deps
+wire-server-hoogle
+zauth
