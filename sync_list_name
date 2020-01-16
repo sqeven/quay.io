@@ -1,4 +1,3 @@
-docker-newman
 docker-node-ci
 docker-php-ci
 docker-php-fpm-ci
