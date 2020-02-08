@@ -1,4 +1,3 @@
-prometheus-operator-lint
 prometheus-watcher
 prom-label-proxy
 promsum
