@@ -1,3 +1,5 @@
+prometheus
+outline
 weaveworks
 hellofresh
 kubernetes-ingress-controller
@@ -7,5 +9,3 @@ kubernetes-service-catalog
 coreos
 wire
 calico
-prometheus
-outline
