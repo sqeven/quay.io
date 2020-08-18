@@ -1,3 +1,6 @@
+wire
+calico
+prometheus
 outline
 weaveworks
 hellofresh
@@ -6,6 +9,3 @@ replicated
 kubernetes-service-catalog
 3scale
 coreos
-wire
-calico
-prometheus
