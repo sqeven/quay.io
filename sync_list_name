@@ -1,0 +1,11 @@
+pushgateway-linux-ppc64le
+snmp-exporter
+snmp-exporter-linux-amd64
+snmp-exporter-linux-arm64
+snmp-exporter-linux-armv7
+snmp-exporter-linux-ppc64le
+snmp-generator
+statsd-exporter
+statsd-exporter-linux-amd64
+statsd-exporter-linux-arm64
+statsd-exporter-linux-armv7
