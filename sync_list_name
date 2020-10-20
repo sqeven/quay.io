@@ -1,1 +1,13 @@
-wks
+spar-integration
+spar-schema
+squid
+stern
+tiller
+tmp
+ubuntu14-ghc-8
+webapp
+webapp-ey
+wire-server-cache
+wire-server-deps
+wire-server-hoogle
+zauth
