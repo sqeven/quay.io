@@ -1,4 +1,3 @@
-wire-server-deploy-deps
 wire-server-deploy-nix-cache
 wire-server-deps
 wire-server-hoogle
