@@ -1,4 +1,3 @@
-ci-composer
 ci-packer
 ci-terraform
 concourse-buildid-resource
