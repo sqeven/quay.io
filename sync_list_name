@@ -1,4 +1,3 @@
-collectd-exporter-linux-armv7
 collectd-exporter-linux-s390x
 consul-exporter
 consul-exporter-linux-amd64
