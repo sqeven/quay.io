@@ -1,4 +1,3 @@
-alertmanager-linux-s390x
 blackbox-exporter
 blackbox-exporter-linux-amd64
 blackbox-exporter-linux-arm64
